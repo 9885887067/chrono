@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.timeline-container {
+  min-height: 100vh;
+  background-color: #ffffff;
+  width: 80%;
+}
+.heading{
+    color:#171f46;
+    font-size: 20px;
+    text-align:center;
+}
+.desc{
+    color:#1e293b;
+    font-size: 30px;
+    text-align:center;
+
+}
